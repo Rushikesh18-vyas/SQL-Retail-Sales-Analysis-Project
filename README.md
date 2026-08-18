@@ -8,7 +8,7 @@ The analysis covers sales performance, customer behavior, product categories, tr
 
 🎯 Objectives
 
-- Analyze retail sales transactions
+- Analyze retail sales transactions 
 - Identify sales trends by category and month
 - Analyze customer purchasing behavior
 - Find high-value transactions
@@ -37,14 +37,23 @@ SQL-Retail-Sales-Analysis-Project/
 The SQL queries answer the following business questions:
 
 QUE 1- Sales made on a specific date
+
 QUE 2- Clothing transactions in November 2022
+
 QUE 3- Total sales by category
+
 QUE 4- Average age of Beauty category customers
+
 QUE 5- Transactions with total sales greater than 1000
+
 QUE 6- Number of transactions by gender and category
+
 QUE 7- Monthly average sales and best-selling month
+
 QUE 8- Top 5 customers based on total sales
+
 QUE 9- Unique customers in each category
+
 QUE 10- Number of orders in different sales shifts
 
 📈 Key SQL Concepts Used
