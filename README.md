@@ -66,6 +66,8 @@ The dataset used in this project is available in the separate repository:
 SQL-Retail-Sales-Analysis
 It contains the original retail sales dataset and the business questions used for this analysis.
 
-👨‍💻 Author
-Rushikesh Vyas
+👨‍💻 Author..
+
+Rushikesh Vyas..
+
 Computer Engineering Student
